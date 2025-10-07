@@ -1,0 +1,15 @@
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.deps.json
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.runtimeconfig.json
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.dll
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.pdb
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfoInputs.cache
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfo.cs
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.sourcelink.json
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.dll
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/refint/FizzBuzzChallenge.dll
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.pdb
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.genruntimeconfig.cache
+/home/user1/FizzBuzzChallenge0_100/FizzBuzzChallenge/obj/Debug/net8.0/ref/FizzBuzzChallenge.dll
